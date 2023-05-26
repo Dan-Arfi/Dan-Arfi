@@ -2,7 +2,7 @@
 <h3 align="center">A tech enthusiast that code all night</h3>
 
 
-- 🌱 I’m currently learning **maybe AI? Pytorch? self destruc robot maybe?**
+- 🌱 I’m currently learning **maybe AI? Pytorch? self destruct robot maybe?**
 
 - 👯 I’m looking to collaborate on **Life**
 
