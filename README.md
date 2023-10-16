@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dan Arfi</h1>
-<h3 align="center">A tech enthusiast that code all night</h3>
+<h3 align="center">A tech enthusiast who codes all night.</h3>
 
 
 - 🌱 I’m currently learning **maybe AI? Pytorch? self destruct robot maybe?**
